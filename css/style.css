@@ -1,0 +1,13 @@
+button{
+    width: 100%;
+    background: #000;
+    color: #fff;
+    height: 40px;
+    border: 1px solid #fff;
+}
+td{
+    padding: 0px;
+}
+input{
+    border: none;
+}
